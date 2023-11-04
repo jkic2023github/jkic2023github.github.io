@@ -1,18 +1,26 @@
 ---
 layout: post
-title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "Navigating High Priced Homes and Mortgage Rates"
+author: jake
+categories: [ mortgage, finance ]
 image: assets/images/2.jpg
 ---
-The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter. 
+When houses are overpriced and mortgage rates are high, considere these strategies: 
 
-As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original — which sees Little Red Riding Hood being gobbled up as well as her grandmother — is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.
+1. **Patience Pays Off:** Be patient and wait for a better market.  Overpriced homes and high mortgage rates can be temporary.  Keep an eye on the market trends and be ready to stike when conditions are more favorable.
 
-> It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story. 
+2. **Negotiate:** Don't hesititage to negotiate with sellers.  They might be willing to lower their asking price or provide concessions to close the deal. 
 
+3. **Expand Your Search:** Look in different neighborhoods or consider homes that need some renovation.  Sometimes, you can find hidden gems in less popular areas or properties that need a little TLC.
 
-An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”. 
+4. **Improve Your Credit:** Work on improving your credit score to qualify for better mortgage rates.  A higher credit score can lead to lower interest rates, which can save you a significant amount over the life of your loan.
 
-The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes. 
+5. **Increase Your Down Payment:** If possible, save for a larger down payment.  A bigger down payment can help you qualify for a smaller loan and potentially better rates.
 
+6. **Explore Other Loan Options:** Investigate various mortgage programs, such as FHA loans or VA loans, which may offer more favorable terms or lower down payment requirements.
+
+7. **Consult a Mortgage Advisor:** Speak with a mortgage advisor (like me) who can provide guidance on navigating the current market conditions and help you find the best mortgage options available.
+
+8. **Consider Renting:** Sometimes, it makes sense to continue renting while you wait for more favorable conditions.  This allows you to save money and be in a better position when the housing market or mortgage rates improve.
+
+Remember that real estate markets are cyclical, and conditions can change.  It's essential to make informed decisions based on your financial situation and long-term goals.
