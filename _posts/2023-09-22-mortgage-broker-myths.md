@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Mortgage Broker Myths"
+author: jake
 categories: [ mortgage ]
 image: assets/images/1.jpg
 ---
