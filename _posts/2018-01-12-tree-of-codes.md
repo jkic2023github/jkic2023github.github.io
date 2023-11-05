@@ -5,11 +5,11 @@ author: jake
 categories: [ mortgage, finance ]
 image: assets/images/2.jpg
 ---
-When houses are overpriced and mortgage rates are high, considere these strategies: 
+When houses are overpriced and mortgage rates are high, consider these strategies: 
 
-1. **Patience Pays Off:** Be patient and wait for a better market.  Overpriced homes and high mortgage rates can be temporary.  Keep an eye on the market trends and be ready to stike when conditions are more favorable.
+1. **Patience Pays Off:** Be patient and wait for a better market.  Overpriced homes and high mortgage rates can be temporary.  Keep an eye on the market trends and be ready to strike when conditions are more favorable.
 
-2. **Negotiate:** Don't hesititage to negotiate with sellers.  They might be willing to lower their asking price or provide concessions to close the deal. 
+2. **Negotiate:** Don't hesitate to negotiate with sellers.  They might be willing to lower their asking price or provide concessions to close the deal. 
 
 3. **Expand Your Search:** Look in different neighborhoods or consider homes that need some renovation.  Sometimes, you can find hidden gems in less popular areas or properties that need a little TLC.
 
